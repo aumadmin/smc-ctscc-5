@@ -1,0 +1,7 @@
+Name: Metal Mid Grey
+Author: continuum - rich media lab
+Website: http://www.continuum.tv
+Description: With its brushed metal surface and nice gradient the Metal theme is one of the most popular and versatile themes for your website.
+(Deutsch: Mit seiner gebürsteten Metalloberfläche und dem schön Verlauf ist das Metal Theme eines der beliebtesten und vielseitigsten Themes für Ihren Webauftritt.)
+Version: 1.0                    
+Tags: cms, metal, brushed, gradient, grey

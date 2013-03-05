@@ -1,0 +1,6 @@
+Name: Relaxed Vibrant Blue
+Author: Teri Carnright, TWC Graphics Design
+Website: http://www.twcgraphics.com
+Description: Blue theme made in Orchard 3.9 using Szmyd SuperFish navigation component (css and graphics included with theme)
+Version: 1.0
+Zones: Header, HeaderLeft, HeaderLeftSub, HeaderRight, Navigation, Featured, BeforeMain, LeftSide, Messages, BeforeContent, Content, SplitPageRight, AfterContent, RightSide, AfterMain, TripleFirst, TripleSecond, TripleThird, Copyright, Footer
