@@ -198,10 +198,4 @@
     <VirtualPath>~/Modules/UpgradeTo16/bin/UpgradeTo16.dll</VirtualPath>
     <Hash>e97bda1b254adf</Hash>
   </Dependency>
-  <Dependency>
-    <ExtensionId>Werul.S3StorageProvider</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/Werul.S3StorageProvider/Werul.S3StorageProvider.csproj</VirtualPath>
-    <Hash>21947d3f15ca839f</Hash>
-  </Dependency>
 </Dependencies>
